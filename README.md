@@ -12,3 +12,5 @@ Initial markup was conducted with circle search Daugman’s algorithm
 ![image](https://user-images.githubusercontent.com/34193118/142198601-b3273929-a0fc-4b31-b48a-1bbc67d23dff.png)
 ![image](https://user-images.githubusercontent.com/34193118/142198617-9318e45c-1d9a-4e9c-b5ad-c00ca8f294c1.png)
 ![image](https://user-images.githubusercontent.com/34193118/142198625-acbd9689-a455-4a10-8d49-d5afee396b08.png)
+
+Before running this files, you need to download dataset, by copying this repository.
